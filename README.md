@@ -44,7 +44,7 @@ Create a new text file by right-clicking in the folder selecting New > Text Docu
 <img src="https://imgur.com/NmBrOwD.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Open the Secret1.txt file and type My Secrets into it, save and close it.. <br/>
+Open the Secret1.txt file and type My Secrets into it, save and close it. <br/>
 <img src="https://imgur.com/aMpwOjv.png" height="80%" width="80%" alt=""/>    
 <br />
 <br />
@@ -69,7 +69,7 @@ If you click on the Explorer window folders you should see something like this m
 To extract the hidden file in the new pic named stegpic.jpg we will need to rename the extension to stegpic.rar. In the cmd prompt type the following: copy stegpic.jpg stegpic.rar.  <br/>
 <img src="https://imgur.com/rc163FQ.png" height="80%" width="80%" alt=""/>
 
-Now if we go back to the file explorer window we will see the following.  <br/>
+Now if we go back to the file explorer window we will see the following added file stegpic.rar.  <br/>
 <img src="https://imgur.com/ktjmBcj.png" height="80%" width="80%" alt=""/>
 
 Now we can extract the hidden message by using the explorer window in the picture by extracting files.  <br/>
