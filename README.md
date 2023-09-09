@@ -1,7 +1,7 @@
 
 
 
-<h1>Steganography exercise - to embed a hidden message in a picture and extract it at a later time. I give all credit to Darril Gibson of CompTIA Security+ Study Guide for his instructions.</h1>
+<h1>Steganography exercise - How to embed a hidden message in a picture and extract it at a later time. I give all credit to Darril Gibson of CompTIA Security+ Study Guide for his instructions.</h1>
 
 
 
