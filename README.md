@@ -30,17 +30,17 @@ Download WinRAR and know how to access the Windows Command prompt. Next open the
 <br />
   
 <br />
-Create a folder in root directory and name it StegExample. In my computer, this is found at Local Disk (C:) > Users > josia > Desktop > StegExample.  <br/>
+Create a folder in the root directory and name it StegExample. In my computer, this is found at Local Disk (C:) > Users > josia > Desktop > StegExample.  <br/>
 
 <img src="https://imgur.com/IYeQ8Em.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Copy picture into StegExample folder and rename it to pic.jpg. <br/>
+Copy the picture into the StegExample folder and rename it to pic.jpg. <br/>
 
 <img src="https://imgur.com/xxT4Tmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a new text file by right-clicking in the folder and selecting New > Text Document and name it Secret1. Make sure it has a .txt file. <br/>
+Create a new text file by right-clicking in the folder selecting New > Text Document and naming it Secret1. Make sure it has a .txt file. Add a message to this file shown in the 4th picture below. <br/>
 <img src="https://imgur.com/NmBrOwD.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
